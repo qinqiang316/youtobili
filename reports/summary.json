@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T01:21:44.189851+00:00",
+  "updated_at": "2026-11-14T12:48:12.189186+00:00",
   "corpus": 6454,
   "processed": 6407,
-  "confirmed": 1545,
-  "coverage": 0.23938642702200186,
-  "processed_match_rate": 0.24114250039019822,
+  "confirmed": 1613,
+  "coverage": 0.24992252866439418,
+  "processed_match_rate": 0.25175589199313253,
   "statuses": {
-    "confirmed": 1545,
-    "review": 4909
+    "confirmed": 1613,
+    "review": 4841
   },
   "not_processed": 47,
   "verification_batch": {
@@ -43,7 +43,7 @@
   ],
   "candidates": 165515,
   "review_expansion_pending": 23,
-  "expanded_reviews": 4799,
+  "expanded_reviews": 4731,
   "review_search_metadata_missing": 87,
   "batch": {
     "id": "20261114T001554Z",
@@ -65,23 +65,23 @@
     "candidate_count": 39
   },
   "candidate_statuses": {
-    "confirmed": 2003,
-    "review": 163511,
+    "confirmed": 2071,
+    "review": 163443,
     "invalid": 1
   },
   "review_reasons": {
     "duration outside tolerance": 97,
     "legacy confidence is not approval": 62,
     "collection title lead; identity not yet verified": 145,
-    "collection segment identity requires review": 131,
+    "collection segment identity requires review": 123,
     "detail review deferred after primary identity confirmed": 881,
     "search duration shorter than original beyond tolerance; detail review deferred": 87285,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 1990,
-    "no explicit original URL; manual identity review required": 13837,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 1974,
+    "no explicit original URL; manual identity review required": 13794,
     "no explicit original URL; manual identity review required; duration outside tolerance": 38489,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 567,
     "duration outside tolerance; collection segment identity requires review": 26,
-    "description links multiple originals": 17,
+    "description links multiple originals": 16,
     "no explicit original URL; manual identity review required; conflicting years": 197,
     "duration outside tolerance; description links multiple originals": 11,
     "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 17685,
