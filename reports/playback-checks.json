@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T12:50:33.244Z",
+  "checked_at": "2026-11-14T16:57:41.234Z",
   "passed": true,
   "checks": [
     {
@@ -12,7 +12,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.957789,
+        "currentTime": 3.926582,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -36,7 +36,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.279668,
+        "currentTime": 4.270438,
         "duration": 3823,
         "paused": false
       },
@@ -60,7 +60,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.309055,
+        "currentTime": 4.297639,
         "duration": 1683,
         "paused": false
       },
@@ -84,7 +84,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.299367,
+        "currentTime": 4.302365,
         "duration": 5180,
         "paused": false
       },
@@ -108,7 +108,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.941781,
+        "currentTime": 3.941557,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -132,7 +132,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.954822,
+        "currentTime": 3.963023,
         "duration": 4374.573625,
         "paused": false
       },

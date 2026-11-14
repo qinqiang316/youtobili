@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-14T12:51:01.117Z",
+  "checked_at": "2026-11-14T16:56:33.491Z",
   "status": "pass",
-  "originals": 1613,
+  "originals": 1867,
   "scenarios": [
     "desktop rendering",
     "mobile rendering/no horizontal overflow",
